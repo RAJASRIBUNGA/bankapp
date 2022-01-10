@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class AccountController {
 	@GetMapping("/test")
-	public String test() {
+	public String saytest(){
 		return "works!!";
 	}
 
