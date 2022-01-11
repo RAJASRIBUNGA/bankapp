@@ -60,6 +60,11 @@ public class UserInfo {
 		// TODO Auto-generated method stub
 		
 	}
+
+	public Role getRole() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
 
